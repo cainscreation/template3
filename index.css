@@ -1,0 +1,20 @@
+
+
+.list-unstyled li a{
+  color:white;
+}.list-unstyled li a:hover{
+  text-decoration: none;
+  color:white;
+  font-size: 1.05rem;
+
+}
+.top-svg{
+background-image: url("footer.png");
+background-size: cover;
+    background-repeat: no-repeat;
+width: 100%;
+}
+footer{
+
+  width: 100%;
+}
